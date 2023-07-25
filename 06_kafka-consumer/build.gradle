@@ -1,0 +1,21 @@
+plugins {
+    id 'application'
+}
+
+application {
+    mainClassName = 'com.simonjoz.Consumer'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.slf4j:slf4j-api:1.7.36'
+    implementation 'org.slf4j:slf4j-simple:1.7.36'
+
+    implementation 'org.apache.kafka:kafka-clients:3.2.3'
+    testImplementation 'junit:junit:4.13.2'
+}
+
+
