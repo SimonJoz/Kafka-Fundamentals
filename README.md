@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Kafka Logo" width="1024" height="576">
+  <img src="logo.jpg" alt="Kafka Logo" width="768" height="432">
 </p>
 
 # Kafka Fundamentals
